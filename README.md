@@ -5,7 +5,7 @@ Characterization of Microbial Diversity in Drinking Water Systems using Qiime2
 Project Team
 Beutline Jebin, Deepthi Varughese, Mahesh Rani, Ritwika Nandi, Simmi Kharb, Tanushri Roy, Vidhyashri
 
-Presented by
+Presented to
 NyBerMan Bioinformatics Europe
 Overview
 
