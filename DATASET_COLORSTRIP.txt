@@ -1,0 +1,16 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Distribution_System
+COLOR	#ff0000
+FIELD_LABELS	Distribution_system	Source_water
+COLOR	#0000ff	#00ff00
+LEGEND_TITLE	System Type
+LEGEND_SHAPES	1	1
+LEGEND_COLORS	#0000ff	#00ff00
+LEGEND_LABELS	Distribution_system	Source_water
+STRIP_WIDTH	100
+
+SRR2080423	Distribution_system
+SRR2080427	Source_water
+SRR2080434	Distribution_system
+SRR2080436	Distribution_system
